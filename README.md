@@ -15,10 +15,6 @@
 ![Chapters](https://img.shields.io/badge/Chapters-21-3776AB?style=for-the-badge)
 ![Projects](https://img.shields.io/badge/Mini%20Projects-2-FF6B6B?style=for-the-badge)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=3776AB&label=REPO+VIEWS)
-
 <br/><br/>
 
 <img src="https://skillicons.dev/icons?i=python,vscode,git,github&perline=4" />
