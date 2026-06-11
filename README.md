@@ -565,7 +565,7 @@ This project is licensed under the **MIT License** — free to use, share, and m
 
 **Made with ❤️ and a lot of ☕ — Happy Coding! 🐍🚀**
 
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR--USERNAME-181717?style=for-the-badge&logo=github)](https://github.com/Arpan-max)
+[![GitHub](https://img.shields.io/badge/GitHub-Arpan-max-181717?style=for-the-badge&logo=github)](https://github.com/Arpan-max)
 
 > ⭐ If this helped you, consider giving the repo a star!
 
