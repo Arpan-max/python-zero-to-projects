@@ -1,0 +1,11 @@
+first_name = input("Enter your first name: ")
+last_name = input("Enter your last name: ")
+age = int(input("Enter your age: "))
+height_meters = float(input("Enter your height in metres: "))
+student = bool(input("Are you a student? (True/False): "))
+
+print(f"First Name: {first_name} -> {type(first_name)}")
+print(f"Last Name: {last_name} -> {type(last_name)}")
+print(f"Age: {age} -> {type(age)}")
+print(f"Height in metres: {height_meters} -> {type(height_meters)}")
+print(f"Student: {student} -> {type(student)}")
