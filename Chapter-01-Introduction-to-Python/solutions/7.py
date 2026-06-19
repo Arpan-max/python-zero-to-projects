@@ -1,7 +1,0 @@
-city = input("What city do you live in? ")
-food = input("What is your favourite food? ")
-dream_job = input("What is your dream job? ")
-print("--- Your Summary ---")
-print(f"You live in {city}.")
-print(f"Your favourite food is {food}.")
-print(f"Your dream is to become a {dream_job}.")
