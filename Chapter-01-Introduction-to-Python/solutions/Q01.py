@@ -1,0 +1,6 @@
+print("Arpan Pareek")
+print(23)
+print("My age in months is", 23*12)
+print(100-37)
+print(8*8)
+print(144/12)
